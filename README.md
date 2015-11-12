@@ -1,1 +1,1 @@
-# proprietary_vendor_samsung_5420
+# All Galaxy Tab S vendor blobs for M
