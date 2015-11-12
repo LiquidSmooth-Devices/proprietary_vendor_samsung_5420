@@ -13,8 +13,6 @@
 # limitations under the License.
 
 # Pick up overlay for features that depend on non-open-source files
-$(call inherit-product, vendor/samsung/chagall-klimt-common/chagall-klimt-common-vendor.mk)
-
 DEVICE_PACKAGE_OVERLAYS := vendor/samsung/klimt-common/overlay
 
 $(call inherit-product, vendor/samsung/klimt-common/klimt-common-vendor-blobs.mk)
